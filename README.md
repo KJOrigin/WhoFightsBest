@@ -61,6 +61,8 @@ This repository provides the official implementation of the paper **“Who Fight
 
 **For more detailed experimental results, please [Click here!](Experiment%20Results/README.md)**
 
+**For more supplementary materials, please [Click here!](Supplementary%20Materials/README.md)**
+
 ## 📝 Prompt Templates
 <div align="center">
 <img src="Pictures/prompt.png" alt="prompt"  width="60%" border="0">
@@ -72,8 +74,12 @@ This repository provides the official implementation of the paper **“Who Fight
 
 **For detailed case study, please [Click here!](Casestudy/README.md)**
 
+**For more supplementary materials, please [Click here!](Supplementary%20Materials/README.md)**
+
 ## 🧭 Debate Process
 **For a detailed debate process of each model, please [Click here!](Debate%20Process/README.md)**
+
+**For more supplementary materials, please [Click here!](Supplementary%20Materials/README.md)**
 
 ## 📖 Usage
 You can implement our methods according to the following steps:
