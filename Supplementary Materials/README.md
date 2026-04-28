@@ -1,4 +1,4 @@
-## 📊 Other Experiment Results
+## 📎 Supplementary Materials
 <div align="center">
   <img src="Pictures/tab1.png" alt="tab1" width="50%" border="0">
 </div>
