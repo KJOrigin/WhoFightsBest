@@ -1,9 +1,9 @@
-## 📎 Supplementary Materials
+# 📎 Supplementary Materials
 
-# Effect Sizes of MBTI Personality Pairings on Performance Across Models 
+## Effect Sizes of MBTI Personality Pairings on Performance Across Models 
 
 <div align="center">
-  <img src="Supplementary Materials/Pictures/Figure10/figure10_GLM-4-9B-0414.png" alt="tab1" width="50%" border="0">
+  <img src="Supplementary Materials/Pictures/Figure10/figure10_GLM-4-9B-0414.pdf" alt="tab1" width="50%" border="0">
 </div>
 
 **Figure1**: All MBTI personality pairs ranked by their effect sizes on performance change for GLM-4-9B relative to the control setting.
